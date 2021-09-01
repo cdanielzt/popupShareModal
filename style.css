@@ -22,6 +22,7 @@ body{
 }
 
 button{
+    appearance: auto;
     outline: none;
     padding: 5px 18px;
     border: 2px solid transparent;
