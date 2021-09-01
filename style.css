@@ -34,6 +34,7 @@ button{
     padding: 10px 25px;
     font-size: 18px;
     color: #7d2ae8;
+    background-color: white;
     transform: translate(-50%, -50%);
 }
 
